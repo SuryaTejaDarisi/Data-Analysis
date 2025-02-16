@@ -5,6 +5,9 @@ This repo contains various datasets and python notebooks to implement Data Analy
 * Data Cleaning (Handling Missing Values, Outliers Detection)
 * Standardisation, Normalisation (Min-Max, Z-Score)
 * Dimensionality Reduction - PCA (Principal Component Analysis)
+* Accuracy Techniques
+  - Confusion Matrix
+  - Precision , Recall, F1-Score
 * Classification Techniques
   - K-Nearest Neighbours (KNN)
   - Bayes Classifier
