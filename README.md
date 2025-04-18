@@ -5,12 +5,24 @@ This repo contains various datasets and python notebooks to implement Data Analy
 * Data Cleaning (Handling Missing Values, Outliers Detection)
 * Standardisation, Normalisation (Min-Max, Z-Score)
 * Dimensionality Reduction - PCA (Principal Component Analysis)
-* Accuracy Techniques (Confusion Matrix, Precision , Recall, F1-Score)
+* Evaluation Metrics Used (Confusion Matrix, Accuracy, Precision , Recall, F1-Score, RMSE, MAPE, Purity Score)
 * Classification Techniques
   - K-Nearest Neighbours (KNN)
   - Bayes Classifier
   - Naive Bayes Classifier
-### Will be uploaded
-* Logistic Regression
-* SVM
-* Linear Regression ...
+  - Logistic Regression
+  - SVM
+  - Linear Regression
+  - Neural Networks
+* Linear Regression
+  - Simple Linear
+  - Multiple Linear
+  - Polynomial Curve Fitting
+  - Polynomial Regression
+  - Neural Networks
+* Auto Regression
+* Clustering
+  - K-Means
+  - K-Medoids
+  - Agglomerative Clustering
+  - DBSCAN (Density Based Spatial Applications with Noise)
