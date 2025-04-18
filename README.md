@@ -1,4 +1,4 @@
-# Data-Analysis
+# MachineLearning
 
 This repo contains various datasets and python notebooks to implement Data Analysis and Machine Learning techniques including:
 * Scatter Plots, Box Plots, Heat Maps, Line Charts, Bar Charts
